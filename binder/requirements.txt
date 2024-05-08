@@ -1,6 +1,7 @@
 awkward==2.4.4
 hist[plot]==2.7.2
 pandas
+voila
 # Ensure Jupyter notebook
 notebook~=6.0
 jupyterlab~=4.0
